@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_web/
+
+Sitemap: https://soyxori.com/sitemap.xml
